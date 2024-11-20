@@ -1,0 +1,11 @@
+# Ignore extension files
+*.swp
+*.o
+*.a
+
+# Ignore compiled files
+*.exe
+*.out
+
+.vscode/
+.nfs*
